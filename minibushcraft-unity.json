@@ -4,8 +4,8 @@
   "name" : "video",
   "note" : "defull",
   "pack" : "",
-  "pe1" : 280,
-  "pe2" : 420,
+  "pe1" : 2800,
+  "pe2" : 4200,
   "status" : true,
   "testMode" : false
 } ]
